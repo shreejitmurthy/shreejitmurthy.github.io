@@ -1,4 +1,4 @@
-# Shreejit Murthy
+# Welcome
 
 This website is used for school projects and notes
 
