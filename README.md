@@ -1,8 +1,8 @@
 ## Welcome
-This website is used for school projects and notes
+This website is filled with tomfoolery and shenanigans
 
 ## Projects
 
 - [Contemporary Media](https://shreejitmurthy.github.io/contemporary-media/)
 
-###### © Shreejit Murthy 2022
+###### © Shreejit Murthy 2023
