@@ -1,5 +1,4 @@
 ## Welcome
-This website is filled with tomfoolery and shenanigans
 
 ## Projects
 
