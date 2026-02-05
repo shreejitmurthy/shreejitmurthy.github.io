@@ -9,4 +9,7 @@ An English assignment tasked me with creating a form of contemporary media. The 
 ### [Asura Engine](https://github.com/shreejitmurthy/asura)
 Asura Engine is a (currently) 2D renderer designed for building games cross platform. Leverages [sokol](https://github.com/floooh/sokol) for D3D11, Metal and OpenGL abstraction. Currently being used to develop a war simuluation/RTS game.
 
-##### © Shreejit Murthy 2025
+### [clair](https://github.com/shreejitmurthy/clair)
+Clair is a simple and easy to use parser for CLI applications. The first working build was made in 2.5 hours. <!-- It is used in XXX -->
+
+##### © Shreejit Murthy 2026
